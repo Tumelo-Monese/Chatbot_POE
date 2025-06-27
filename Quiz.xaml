@@ -15,7 +15,7 @@
             <RadioButton x:Name="OptionC" GroupName="QuizOptions" Content="Option C" Margin="0,5"/>
             <RadioButton x:Name="OptionD" GroupName="QuizOptions" Content="Option D" Margin="0,5"/>
 
-            <Button Content="Submit Answer" Width="150" Height="50" Margin="0,20,0,0" Click="SubmitAnswer_Click"/>
+            <Button Content="Submit Answer" Width="140" Height="50" Margin="0,20,0,0" Click="SubmitAnswer_Click"/>
             <TextBlock x:Name="FeedbackTextBlock" FontSize="14" FontWeight="SemiBold" Foreground="Green" Margin="0,10,0,0"/>
         </StackPanel>
 
